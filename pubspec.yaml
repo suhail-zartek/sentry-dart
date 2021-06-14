@@ -27,7 +27,6 @@ dev_dependencies:
 dependency_overrides:
   sentry:
     path: ../dart
-    package_info_plus:
 
 flutter:
   plugin:
