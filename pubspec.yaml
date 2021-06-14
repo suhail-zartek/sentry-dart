@@ -14,7 +14,7 @@ dependencies:
   flutter_web_plugins:
     sdk: flutter
   sentry: ^5.1.0
-  package_info_plus: ^0.6.4
+  package_info_plus: ^1.0.0
 
 dev_dependencies:
   flutter_test:
@@ -27,6 +27,7 @@ dev_dependencies:
 dependency_overrides:
   sentry:
     path: ../dart
+    package_info_plus:
 
 flutter:
   plugin:
